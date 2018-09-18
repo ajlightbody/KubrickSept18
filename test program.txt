@@ -2,6 +2,9 @@ Here is some test code
 
 My favourite type of bagel is cinnamon
 
+<<<<<<< HEAD
 Oh wait, maybe it is cream cheese and salmon.
 
-I don't know
+I don't knowI don't know
+=======
+>>>>>>> 6686fc37fbc381796d2e21aef5926a736b1fe5c2
